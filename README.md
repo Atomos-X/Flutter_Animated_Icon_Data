@@ -1,5 +1,4 @@
-1. build your `AnimatedIconData` file,copy in path:   
-    `[your path]/flutter/packages/flutter/lib/src/material/animated_icons/data`  
+1. build your `AnimatedIconData` file, copy to path: `[your path]/flutter/packages/flutter/lib/src/material/animated_icons/data`  
 2. I make a examle  `add_close.g.dart` file,  you can use it.
 3. add line `static const AnimatedIconData add_close = _$add_close;` to file `animated_icons_data.dart`
 ![](img/1.png)  
